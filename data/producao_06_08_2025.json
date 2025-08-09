@@ -1,0 +1,88 @@
+{
+  "periodo": {
+    "inicio": "06/08/2025",
+    "fim": "06/08/2025"
+  },
+  "totais_periodo": {
+    "producao_mil": 0.072,
+    "receita_mil": 0
+  },
+  "equipes": {
+    "PAULO": {
+      "rede": "150",
+      "producao_total": 18,
+      "receita_total": 0,
+      "meta_mes_percentual": 0,
+      "producao_diaria": [18],
+      "ligacao": 0,
+      "pv": 0,
+      "observacoes": "",
+      "ativo": true
+    },
+    "ERLANIO": {
+      "rede": "150",
+      "producao_total": 6,
+      "receita_total": 0,
+      "meta_mes_percentual": 0,
+      "producao_diaria": [6],
+      "ligacao": 0,
+      "pv": 0,
+      "observacoes": "",
+      "ativo": true
+    },
+    "HUMBERTO": {
+      "rede": "150",
+      "producao_total": 48,
+      "receita_total": 0,
+      "meta_mes_percentual": 0,
+      "producao_diaria": [48],
+      "ligacao": 0,
+      "pv": 0,
+      "observacoes": "",
+      "ativo": true
+    },
+    "JUAREZ": {
+      "rede": "150",
+      "producao_total": 0,
+      "receita_total": 0,
+      "meta_mes_percentual": 0,
+      "producao_diaria": [0],
+      "ligacao": 10,
+      "pv": 0,
+      "observacoes": "",
+      "ativo": true
+    },
+    "FABIO": {
+      "rede": "150",
+      "producao_total": 0,
+      "receita_total": 0,
+      "meta_mes_percentual": 0,
+      "producao_diaria": [0],
+      "ligacao": 0,
+      "pv": 0,
+      "observacoes": "Ajuda com limpeza de trecho",
+      "ativo": true
+    }
+  },
+  "totais_diarios": {
+    "rede": 72,
+    "ligacao": 10,
+    "pv": 0
+  },
+  "producao_acumulada": {
+    "rede_total": 6893,
+    "rede_agosto": 378,
+    "ligacao_total": 496,
+    "ligacao_julho": 32
+  },
+  "configuracoes": {
+    "meta_diaria_minima": 40,
+    "meta_diaria_boa": 60,
+    "meta_mensal_target": 90,
+    "cores": {
+      "baixa": "#ef4444",
+      "media": "#fbbf24",
+      "alta": "#22c55e"
+    }
+  }
+}
